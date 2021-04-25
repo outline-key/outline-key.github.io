@@ -1,0 +1,10 @@
+body {
+    background-color: #14151b !important;
+    margin: 0 !important;
+    font-family: Jura, sans-serif !important;
+}
+
+@font-face {
+    font-family: Jura;
+    src: url("../fonts/Jura.ttf");
+}
